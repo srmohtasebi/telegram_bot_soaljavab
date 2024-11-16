@@ -1,0 +1,7 @@
+python telegram_bot.py
+python origin.py
+python get_chat_id.py
+cd "C:\Users\SRM\code\telegram_bot_soaljavab"
+https://docs.google.com/spreadsheets/d/19Z1TO3viiUD6JjbbvB3llTGxJbyTAA1DzmwX9J5d-ho/edit?gid=0#gid=0
+6337921786
+morteza= 486322999
