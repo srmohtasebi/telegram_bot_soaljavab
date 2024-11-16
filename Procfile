@@ -1,1 +1,1 @@
-worker: python3 soal_javab_original_bot.py
+worker: /opt/render/python/bin/python3 soal_javab_original_bot.py
